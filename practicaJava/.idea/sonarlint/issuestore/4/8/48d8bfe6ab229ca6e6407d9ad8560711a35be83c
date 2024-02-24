@@ -1,0 +1,9 @@
+
+n
+java:S1104"SMake defensa a static final constant or non-public and provide accessors if needed.(Ø’Ù“ûÿÿÿÿ
+n
+java:S1845"SRename method "defensa" to prevent any misunderstanding/clash with field "defensa".(«‚¹©ýÿÿÿÿ
+T
+java:S5993"9Change the visibility of this constructor to "protected".(»ºà‚üÿÿÿÿ
+J
+java:S1656	"/Remove or correct this useless self-assignment.(€—ÙÅùÿÿÿÿ
